@@ -1,0 +1,34 @@
+.post-list {
+    width: 1000px; 
+    margin: 0 auto; 
+}
+
+.post { 
+    background-color: #d5d5d5; 
+    padding: 20px; 
+    margin-bottom: 20px;
+    border-radius: 20px; 
+    position: relative; 
+}
+
+.post-title {
+    font-size: 20px; 
+    margin-bottom: 40px; 
+}
+
+.post-author {
+    font-style: italic;
+    margin-bottom: 40px; 
+}
+
+.post-content {
+    font-size: 16px; 
+    color: #333; 
+}
+
+.like-icon {
+    position: absolute; 
+    bottom: 10px; 
+    right: 10px; 
+    cursor: pointer; 
+}
